@@ -18,7 +18,7 @@ This is not a full simulator of pokemon, it is broken up into three sections:
 
 The battle code is incomplete, it does not support any pokemon that are not present in battles for my project to beat every game of Pokemon Platinum, and does not support any battle mechanics that are absent.  For example, Inner Focus does not do anything, despite being on several pokemon, because I never use a move that flinches on a pokemon with Inner Focus throughout my run, and never had a reason to program in its functionality.
 
-This applies to many many many different abilities, moves, and mechanics that are not present for the specific run that I did.
+This applies to many many many different abilities, moves, and mechanics that are not present for the specific run that I did.  You can find more information about this sister project [here](https://github.com/KeeyanGhoreshi/PokemonPlatinumSingleSequence).
 
 # Using this code
 
